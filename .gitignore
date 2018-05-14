@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 *.pyc
+ResNet50.h5
+__pycache__
