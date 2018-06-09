@@ -5,3 +5,4 @@ __pycache__
 yolo.h5
 *.h5
 *.mat
+*.csv
